@@ -1,0 +1,13 @@
+# Binaries for programs and plugins
+**/*.dll
+**/*.exe
+**/*.dylib
+**/*.so
+
+# Cargo artifacts
+/target/
+/Cargo.lock
+
+# IDE files
+.idea/
+.vscode/
